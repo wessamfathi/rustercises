@@ -6,4 +6,8 @@ fn main() {
     println!("Hello, world!");
 
     algebra::calc_algebra();
+
+    println!("----------------------------");
+
+    pig_latin::pig_latinify();
 }
